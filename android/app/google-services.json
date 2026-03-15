@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18447923888",
+    "project_id": "classic-kid-bingo",
+    "storage_bucket": "classic-kid-bingo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18447923888:android:ad3488aa3d479a33a29975",
+        "android_client_info": {
+          "package_name": "j.bhairavshah.com.bingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGgIBXtVGYISBPnO8fOYvMfw2VtF3wcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
